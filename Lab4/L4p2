@@ -5,7 +5,7 @@ class L4P2 {
     public static void main(String... args) {
         Scanner s = new Scanner(System.in);
         try {
-            int n = Integer.parseInt("lalith");
+            int n = Integer.parseInt("reetu");
             int m = s.nextInt();
             System.out.println(n / m);
         } catch (InputMismatchException ie) {
